@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="dialog_loading_message">Loading…</string>
+    <string name="fail_response_message">there is something error happened</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="steps_label">Steps</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe_empty">Recipe is empty</string>
+</resources>
